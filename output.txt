@@ -1,0 +1,134 @@
+SHORTEST PATHS:
+Nethken Hall ---> Memorial Gym
+TRAVEL DISTANCE: 0.7 MILES
+
+Nethken Hall ---> Howard Center for Performing Arts ---> Institute for Micromanufacturing ---> F. Jay Taylor Visual Arts Center
+TRAVEL DISTANCE: 0.47 MILES
+
+Nethken Hall ---> Hale Hall
+TRAVEL DISTANCE: 0.6 MILES
+
+Nethken Hall ---> Robinson Hall
+TRAVEL DISTANCE: 0.6 MILES
+
+Nethken Hall ---> Woodard Hall
+TRAVEL DISTANCE: 0.6 MILES
+
+Nethken Hall ---> Howard Center for Performing Arts ---> Institute for Micromanufacturing ---> Band Building
+TRAVEL DISTANCE: 0.5 MILES
+
+Nethken Hall ---> Howard Center for Performing Arts ---> Institute for Micromanufacturing ---> Planetarium
+TRAVEL DISTANCE: 0.49 MILES
+
+Nethken Hall ---> Howard Center for Performing Arts ---> Institute for Micromanufacturing ---> A.E. Phillips Laboratory School
+TRAVEL DISTANCE: 0.47 MILES
+
+Nethken Hall ---> Howard Center for Performing Arts ---> Institute for Micromanufacturing
+TRAVEL DISTANCE: 0.4 MILES
+
+Nethken Hall ---> George T. Madison Hall
+TRAVEL DISTANCE: 0.4 MILES
+
+Nethken Hall ---> Engineering Annex ---> Davison Hall
+TRAVEL DISTANCE: 0.34 MILES
+
+Nethken Hall ---> Howard Center for Performing Arts
+TRAVEL DISTANCE: 0.1 MILES
+
+Nethken Hall ---> University Hall
+TRAVEL DISTANCE: 0.3 MILES
+
+Nethken Hall ---> Engineering Annex ---> Bogard Hall
+TRAVEL DISTANCE: 0.05 MILES
+
+Nethken Hall ---> Carson Taylor Hall
+TRAVEL DISTANCE: 0.4 MILES
+
+Nethken Hall ---> Engineering Annex
+TRAVEL DISTANCE: 0.04 MILES
+
+Nethken Hall ---> College of Business
+TRAVEL DISTANCE: 0.1 MILES
+
+TOTAL LENGTH FOR ALL SHORTEST PATHS (DIJKSTRA'S): 6.56 MILES
+TOTAL TIME ELAPSED TO RUN DIJKSTRA'S ALGORITHM: 2597900 NANOSECONDS
+
+LONGEST PATHS:
+Nethken Hall ---> Memorial Gym
+TRAVEL DISTANCE: 0.7 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center
+TRAVEL DISTANCE: 2.6 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building ---> Bogard Hall ---> Hale Hall
+TRAVEL DISTANCE: 6.7 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building ---> Bogard Hall ---> Hale Hall ---> Howard Center for Performing Arts ---> Robinson Hall
+TRAVEL DISTANCE: 8.2 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building ---> Bogard Hall ---> Hale Hall ---> Howard Center for Performing Arts ---> Robinson Hall ---> Davison Hall ---> Woodard Hall
+TRAVEL DISTANCE: 9.3 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building
+TRAVEL DISTANCE: 5.4 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium
+TRAVEL DISTANCE: 4 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building ---> Bogard Hall ---> Hale Hall ---> Howard Center for Performing Arts ---> Robinson Hall ---> Davison Hall ---> Woodard Hall ---> University Hall ---> Institute for Micromanufacturing ---> George T. Madison Hall ---> A.E. Phillips Laboratory School
+TRAVEL DISTANCE: 11.4 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building ---> Bogard Hall ---> Hale Hall ---> Howard Center for Performing Arts ---> Robinson Hall ---> Davison Hall ---> Woodard Hall ---> University Hall ---> Institute for Micromanufacturing
+TRAVEL DISTANCE: 10.4 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building ---> Bogard Hall ---> Hale Hall ---> Howard Center for Performing Arts ---> Robinson Hall ---> Davison Hall ---> Woodard Hall ---> University Hall ---> Institute for Micromanufacturing ---> George T. Madison Hall
+TRAVEL DISTANCE: 11 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building ---> Bogard Hall ---> Hale Hall ---> Howard Center for Performing Arts ---> Robinson Hall ---> Davison Hall
+TRAVEL DISTANCE: 8.7 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building ---> Bogard Hall ---> Hale Hall ---> Howard Center for Performing Arts
+TRAVEL DISTANCE: 7.4 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building ---> Bogard Hall ---> Hale Hall ---> Howard Center for Performing Arts ---> Robinson Hall ---> Davison Hall ---> Woodard Hall ---> University Hall
+TRAVEL DISTANCE: 9.7 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex ---> Band Building ---> Bogard Hall
+TRAVEL DISTANCE: 6.1 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall
+TRAVEL DISTANCE: 1.7 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business ---> Planetarium ---> Engineering Annex
+TRAVEL DISTANCE: 4.7 MILES
+
+Nethken Hall ---> Memorial Gym ---> Carson Taylor Hall ---> F. Jay Taylor Visual Arts Center ---> College of Business
+TRAVEL DISTANCE: 3.3 MILES
+
+TOTAL LENGTH FOR ALL LONGEST PATHS (MODDED DIJKSTRA'S): 111.3 MILES
+TOTAL TIME ELAPSED TO RUN MODDED DIJKSTRA'S ALGORITHM: 333800 NANOSECONDS
+
+MINIMUM SPANNING TREE:
+Hale Hall ---> Robinson Hall
+Hale Hall ---> Woodard Hall
+Hale Hall ---> Band Building
+Band Building ---> Planetarium
+Planetarium ---> A.E. Phillips Laboratory School
+A.E. Phillips Laboratory School ---> F. Jay Taylor Visual Arts Center
+A.E. Phillips Laboratory School ---> Institute for Micromanufacturing
+George T. Madison Hall ---> Memorial Gym
+George T. Madison Hall ---> Hale Hall
+Howard Center for Performing Arts ---> Carson Taylor Hall
+University Hall ---> George T. Madison Hall
+Bogard Hall ---> Howard Center for Performing Arts
+Engineering Annex ---> Davison Hall
+Engineering Annex ---> Bogard Hall
+Nethken Hall ---> Engineering Annex
+Nethken Hall ---> College of Business
+College of Business ---> University Hall
+
+TOTAL WEIGHT FOR MST (PRIM'S): 2.06 MILES
+TOTAL TIME TO RUN PRIM'S ALGORITHM: 287300 NANOSECONDS
+_______________________________________________________________________________________
+Most efficient (least distance) for the workers is Prim-Jarnik algorithm: 2.06 miles
+Most efficient (time analysis) for the workers is Prim-Jarnik algorithm: 287300.0 ns

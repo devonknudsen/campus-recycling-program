@@ -1,0 +1,47 @@
+Memorial Gym,Institute for Micromanufacturing,0.3
+Memorial Gym,F. Jay Taylor Visual Arts Center,0.3
+Memorial Gym,Robinson Hall,0.3
+Memorial Gym,Hale Hall,0.3
+Memorial Gym,George T. Madison Hall,0.3
+F. Jay Taylor Visual Arts Center,Memorial Gym,0.3
+F. Jay Taylor Visual Arts Center,A.E. Phillips Laboratory School,0.03
+F. Jay Taylor Visual Arts Center,Institute for Micromanufacturing,0.07
+Institute for Micromanufacturing,Memorial Gym,0.3
+Institute for Micromanufacturing,F. Jay Taylor Visual Arts Center,0.07
+Institute for Micromanufacturing,Davison Hall,0.3
+A.E. Phillips Laboratory School,F. Jay Taylor Visual Arts Center,0.03
+A.E. Phillips Laboratory School,Planetarium,0.025
+Planetarium,A.E. Phillips Laboratory School,0.025
+Planetarium,Band Building,0.04
+Band Building,Planetarium,0.04
+Band Building,Robinson Hall,0.1
+Woodard Hall,Robinson Hall,0.01
+Robinson Hall,Hale Hall,0.02
+Hale Hall,Robinson Hall,0.1
+Hale Hall,George T. Madison Hall,0.2
+Hale Hall,Memorial Gym,0.3
+Hale Hall,Band Building,0.2
+Hale Hall,Woodard Hall,0.1
+Davison Hall,Institute for Micromanufacturing,0.3
+Davison Hall,Carson Taylor Hall,0.3
+Howard Center for Performing Arts,Davison Hall,0.4
+Howard Center for Performing Arts,Carson Taylor Hall,0.1
+Carson Taylor Hall,Bogard Hall,0.09
+Bogard Hall,Engineering Annex,0.01
+Bogard Hall,College of Business,0.1
+Bogard Hall,Howard Hall,0.05
+Engineering Annex,Bogard Hall,0.01
+Engineering Annex,Nethken Hall,0.04
+Nethken Hall,College of Business,0.1
+Nethken Hall,Davison Hall,0.4
+Nethken Hall,Carson Taylor Hall,0.4
+Nethken Hall,Engineering Annex,0.04
+College of Business,Nethken Hall,0.1
+College of Business,Bogard Hall,0.1
+College of Business,University Hall,0.2
+University Hall,College of Business,0.3
+University Hall,George T. Madison Hall,0.1
+George T. Madison Hall,University Hall,0.1
+George T. Madison Hall,Memorial Gym,0.3
+George T. Madsion Hall,Hale Hall,0.2
+George T. Madsion Hall,Robinson Hall,0.3
